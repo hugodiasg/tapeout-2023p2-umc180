@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      hugo
+HostName                       lieb
+ProcessIdentifier              9008
+ProcessCreationTime_UTC        1699056290
+ProcessCreationTime_Readable   Fri Nov  3 21:04:50 2023 -03
+AppIdentifier                  /edatools/cadence/IC/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/hugo/umc180_skel/lna_lib/tb_nmos/constraint/prop.cfg
+TimeEditLocked                 Sat Nov  4 01:08:29 2023 -03

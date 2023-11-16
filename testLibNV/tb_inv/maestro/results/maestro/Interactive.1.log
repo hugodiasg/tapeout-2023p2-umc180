@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Nov  6 18:04:40 2023 
+Best design point: 1
+Design specs: 
+	tb_inv_tran	corner	Nominal - 
+	tb_inv_tran_pex	corner	Nominal - 
+Design parameters: 
+
+Interactive.1
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.1 completed. 
+Current time: Mon Nov  6 18:04:58 2023 

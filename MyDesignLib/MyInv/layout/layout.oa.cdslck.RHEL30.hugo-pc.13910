@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      hugodg
+HostName                       hugo-pc
+ProcessIdentifier              13910
+ProcessCreationTime_UTC        1689621110
+ProcessCreationTime_Readable   Mon Jul 17 16:11:50 2023 -03
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/hugodg/umc180_skel/MyDesignLib/MyInv/layout/layout.oa.cdslck.dirlck
+TimeEditLocked                 Mon Jul 17 23:21:36 2023 -03
