@@ -7,6 +7,7 @@ This chip (40 PADs and Area = 1525 um X 1525 um = 2.32 mm²) made with UMC 180nm
 - CMOS Inverter 3.3 V;
 - Some transistors of different sizes for characterization.
 
+Diodes were placed on the inverter gates to prevent antenna effects.
 
 ## Schematic
 
